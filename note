@@ -1,0 +1,80 @@
+
+
+                            NODE JS / EXPRESS - Server Side Technology
+                        -----------------------------------------
+
+
+                        Basic Commands
+                    ---------------------
+
+                1. to create package.json - npm init
+
+                2. Install express - npm i express
+
+                3. Install nodemon - sudo npm i -g nodemon
+
+                4. run the server - node/nodemon index.js
+
+                5. Install jwt token - npm i jsonwebtoken
+
+                6. Install mongoose - npm install mongoose 
+
+                7. install cors - npm i cors
+
+
+
+
+
+
+                        Basic Concepts
+                    ------------------------
+
+                1. create a folder
+
+                2. create package.json
+
+                3. Create index.js file
+
+                4. Install express
+
+                5 import express in index.js
+
+                6. create app using express
+
+                7. define port number for server app
+
+                8. Install nodemon 
+
+                9. middleware - 
+
+                    9.1 Application specific middleware
+
+                    9.2 Router specific middleware
+
+                10. JWT Token
+
+                    10.1 token generate - sign()
+
+                    10.2 token verify - verify()
+
+                11. Connection between monogoDB and server
+
+                    11.1. Install mongoose 
+
+                    11.2 provide connection string using mongoose
+
+                    11.3 create model 
+
+                    11.4 export model
+
+                12. Solving Asynchronous events
+
+                    12.1 Promise - 
+                        12.1.1 resolved state - then()
+                        12.1.2 reject state - catch()
+
+                13. cors - cross origin resource shairing protocol
+
+                    13.1 install cors
+                    13.2 import cors to index.js
+                    13.3 Use the cors in server app
